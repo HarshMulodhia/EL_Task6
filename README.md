@@ -31,7 +31,7 @@ The script performs the following:
 
 - Splits the dataset into training and testing sets.
 
-- Normalizes the feature values using Min-max Scal.
+- Normalizes the feature values using Min-max Scaling.
 
 - Trains and evaluates a KNN model for multiple values of K.
 
